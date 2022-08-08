@@ -6,7 +6,7 @@ Disciplina de  **Pensamento Computacional**
 
 ...
 
-Desenvolvimentode site nas linguagens HTML e CSS
+Desenvolvimento de site nas linguagens HTML e CSS
 
 Estudante:Angelo Bernardi Muriana N°03
 
