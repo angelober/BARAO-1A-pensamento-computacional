@@ -2,7 +2,7 @@
 ## projeto de um site em HTML CSS
 
 ### Colegio Estadual Barao do Rio branco
-Disciplina de  **Pesamento Computacional**
+Disciplina de  **Pensamento Computacional**
 
 ...
 
