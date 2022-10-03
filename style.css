@@ -1,4 +1,19 @@
 body {
     text-align: center;
-    background-color: aquamarine;
-}
+    background-color: aquamarine;}
+    .beneficios{
+        text-align: left;
+        background-color: aqua;
+    }
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        margin-right:350px;
+    }
+    li {
+        padding: 25px;
+        font-size: 26px;
+    }
+    .imagenbeneficios.jpg{
+        width: 40%;
+    }
