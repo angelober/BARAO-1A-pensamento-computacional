@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgba(194, 60, 60, 0.507);}
+    .beneficios{
+        text-align: left;
+        background-color: rgba(179, 81, 81, 0.521);
+    }
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        margin-right:350px;
+    }
+    li {
+        padding: 25px;
+        font-size: 26px;
+    }
+    .imagenbeneficios.jpg{
+        width: 40%;
+    }
